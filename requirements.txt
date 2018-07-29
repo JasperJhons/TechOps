@@ -1,0 +1,7 @@
+py=1.5.4
+pluggy=0.6.0
+pytest==3.6.3
+pytest-allure-adaptor==1.7.10
+selenium==3.13.0
+urllib3==1.22
+virtualenv==16.0.0
