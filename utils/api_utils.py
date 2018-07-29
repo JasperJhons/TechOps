@@ -5,7 +5,7 @@ import requests
 from variables.variables import *
 
 
-class SberbankAppiUtils(object):
+class SberbankApiUtils(object):
     _common_url = "http://www.sberbank.ru/portalserver/proxy"
     _internal_api_url = "http://localhost/rates-web/rateService/rate/current"
 
